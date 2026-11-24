@@ -1,7 +1,7 @@
 # Prototipo: gestión de mantenimiento de equipos de cómputo — ENII Zipaquirá
 
 Archivos para copiar sobre una instalación nueva de **Laravel 11** (PHP 8.2+, MySQL).
-Todos los datos de ejemplo son ficticios.
+
 
 ## Instalación
 
